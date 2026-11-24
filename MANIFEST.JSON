@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "COSMOS — Yerevan",
+  "short_name": "COSMOS",
+  "description": "Observatorium waktu futuristik untuk Yerevan, Armenia",
+  "start_url": "./INDEX.HTM",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#030611",
+  "theme_color": "#050817",
+  "lang": "id",
+  "icons": [
+    { "src": "ICON-192.PNG", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "ICON-512.PNG", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
